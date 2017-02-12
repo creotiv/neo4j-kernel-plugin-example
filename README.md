@@ -2,6 +2,7 @@
 I spent some amout of time to understand how kernel extension works, how to test them right, and how to work with existing bugs.
 In this example extension i tried to cover all problems that i got and how i compose all things together at the end.
 Hope this will help some of you and save time and hair on your head)
+Also here is article about my experience of working with Neo4j: https://medium.com/@a.nikishaev/life-after-1-year-of-using-neo4j-4eca5ce95bf5#.9onnzger1
 
 ## How to test
 First you will need to install Maven, then just call `mvn test` from base dir.
